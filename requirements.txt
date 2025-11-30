@@ -1,0 +1,9 @@
+torch
+torchvision
+tqdm
+numpy
+pillow
+wandb
+opencv-python
+scikit-learn
+git+https://github.com/facebookresearch/dinov2.git
